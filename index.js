@@ -5,7 +5,6 @@ const secondsEl = document.getElementsByClassName('seconds-value')[0];
 
 const christmas = '25 Dec 2021';
 
-console.log(daysEl);
 
 function countdown() {
     const chirstmasDate = new Date(christmas)
